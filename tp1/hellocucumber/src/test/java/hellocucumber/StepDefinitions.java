@@ -1,14 +1,3 @@
-= R5.A.08 -- Dépôt pour les TPs
-:icons: font
-:MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
-
-Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[Jonh Doe].
-
-== TP1
-
-.Exemple de code
-[source,java]
----
 package hellocucumber;
 
 import io.cucumber.java.en.Given;
@@ -52,10 +41,3 @@ public class StepDefinitions {
     public void theScenarioPasses() {
     }
 }
-
----
-
-.Exemple d'image insérée en asciidoc
-image::tp1.png[width=80%]
-
-== TP2...
